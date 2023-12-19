@@ -107,7 +107,7 @@ Resources:
         - Key: Network
           Value: Public
         - Key: yor_trace
-          Value: 99369f84-ea70-403b-91b1-1298c1d9b826
+          Value: 99f369f84-ea70-403b-91b1-1298c1d9b826
   PrivateRouteTable01:
     Type: AWS::EC2::RouteTable
     Properties:
